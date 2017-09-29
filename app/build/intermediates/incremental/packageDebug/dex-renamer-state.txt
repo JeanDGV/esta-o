@@ -1,0 +1,7 @@
+#Wed Sep 13 13:33:57 BRT 2017
+base.0=/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_845bc6b1d9dfb16c75ceeebf1e4e31e737c9b372
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c5604913ff514ea029122d9a859b64f345eb992/classes.dex
+base.1=/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c5604913ff514ea029122d9a859b64f345eb992
+file.0=/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_845bc6b1d9dfb16c75ceeebf1e4e31e737c9b372/classes.dex

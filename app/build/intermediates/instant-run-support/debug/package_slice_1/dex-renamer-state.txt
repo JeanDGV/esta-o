@@ -1,0 +1,4 @@
+#Fri Sep 08 15:37:09 BRT 2017
+base.0=/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

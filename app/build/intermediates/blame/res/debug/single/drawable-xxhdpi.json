@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_temp.png",
+        "source": "/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/res/drawable-xxhdpi/ic_menu_temp.png"
+    },
+    {
+        "merged": "/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_wind.png",
+        "source": "/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/res/drawable-xxhdpi/ic_menu_wind.png"
+    },
+    {
+        "merged": "/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_humidity.png",
+        "source": "/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/res/drawable-xxhdpi/ic_menu_humidity.png"
+    }
+]

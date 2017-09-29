@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/JeanDGV/.android/build-cache/377fad04e1bc56135a474cdc4dfc7701d6f87c9d/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

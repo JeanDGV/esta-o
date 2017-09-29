@@ -1,0 +1,119 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.eths.climatico.Fragment.ClimaFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/lb_temp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="Temperatura"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textColorHighlight="@color/colorPrimary"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ed_temperatura"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:fontFamily="monospace" />
+
+        <TextView
+            android:id="@+id/lb_umidadear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="Umidade Ar"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textColorHighlight="@color/colorPrimary"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ed_umidadear"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:fontFamily="monospace" />
+
+        <TextView
+            android:id="@+id/lb_umidadesolo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="Umidade Solo"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textColorHighlight="@color/colorPrimary"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ed_umidadesolo"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:fontFamily="monospace" />
+
+        <TextView
+            android:id="@+id/lb_chuva"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="Chuva"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ed_chuva"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:fontFamily="monospace" />
+
+        <TextView
+            android:id="@+id/ed_estado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text=" Off"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/lb_verifica"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="Ultima Verificaçao"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ed_verifica"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:fontFamily="monospace" />
+
+    </LinearLayout>
+</FrameLayout>

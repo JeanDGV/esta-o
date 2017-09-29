@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:13:5-31:19
+MERGED from [com.android.support:design:25.0.1] /Users/JeanDGV/.android/build-cache/59e1482ce094df3f953cb0bc15fff3960ec64d5f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/JeanDGV/.android/build-cache/8445380d72cb8e309c3fd34bd71a2aabf2c1dd32/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/JeanDGV/.android/build-cache/58741a24972061493e42e49d3dedc90e40d6ab58/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/JeanDGV/.android/build-cache/aa7801eb28d33e38f60b5350d9a1b9d65de7d962/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.1] /Users/JeanDGV/.android/build-cache/6a161c44af2042d1cd51aa6c4a60903b9abbbbd6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /Users/JeanDGV/.android/build-cache/8ff2b6803910484d8bc631397280ae8b84299f73/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/JeanDGV/.android/build-cache/dee1b58d8b1bdeea5b7d6106b9295192e24fba81/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/JeanDGV/.android/build-cache/25092ac50a658a6d3b38c78a5b2515c63db51f28/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/JeanDGV/.android/build-cache/f82dbeafe023d69f00198361b340fadaacb36b04/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/JeanDGV/.android/build-cache/02255997ae015a876b712de560713d5b0a29fd98/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /Users/JeanDGV/.android/build-cache/d31168a2e6b1a3f110dfe371d46d5301f0d55ba2/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.eths.climatico.MainActivity
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:26:27-74
+service#org.eclipse.paho.android.service.MqttService
+ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:29:9-30:19
+	android:name
+		ADDED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml:29:18-77
+uses-sdk
+INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.0.1] /Users/JeanDGV/.android/build-cache/59e1482ce094df3f953cb0bc15fff3960ec64d5f/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/JeanDGV/.android/build-cache/8445380d72cb8e309c3fd34bd71a2aabf2c1dd32/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/JeanDGV/.android/build-cache/58741a24972061493e42e49d3dedc90e40d6ab58/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/JeanDGV/.android/build-cache/aa7801eb28d33e38f60b5350d9a1b9d65de7d962/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.0.1] /Users/JeanDGV/.android/build-cache/6a161c44af2042d1cd51aa6c4a60903b9abbbbd6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] /Users/JeanDGV/.android/build-cache/8ff2b6803910484d8bc631397280ae8b84299f73/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/JeanDGV/.android/build-cache/dee1b58d8b1bdeea5b7d6106b9295192e24fba81/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/JeanDGV/.android/build-cache/25092ac50a658a6d3b38c78a5b2515c63db51f28/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/JeanDGV/.android/build-cache/f82dbeafe023d69f00198361b340fadaacb36b04/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.0.1] /Users/JeanDGV/.android/build-cache/d86477e7401004f4de3b92147f5c7657e0cafac4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/JeanDGV/.android/build-cache/02255997ae015a876b712de560713d5b0a29fd98/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] /Users/JeanDGV/.android/build-cache/d31168a2e6b1a3f110dfe371d46d5301f0d55ba2/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] /Users/JeanDGV/.android/build-cache/59e1482ce094df3f953cb0bc15fff3960ec64d5f/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/src/main/AndroidManifest.xml

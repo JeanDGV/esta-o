@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/f82dbeafe023d69f00198361b340fadaacb36b04/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6fdddb08d4d36ffb5eac7de5fb6ad10c5c7deb15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/25092ac50a658a6d3b38c78a5b2515c63db51f28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a6865f0a5ef31a4423f58673fa1743d5644d030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c5604913ff514ea029122d9a859b64f345eb992/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/02255997ae015a876b712de560713d5b0a29fd98/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_253d281aca798108faa179e0863f2357be869325/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/25092ac50a658a6d3b38c78a5b2515c63db51f28/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fd691490dcd918d340ad1f419ee584b9f87d0546/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.1.0/1945d9504415955d865ac805f60bf85366aeaffb/org.eclipse.paho.android.service-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1945d9504415955d865ac805f60bf85366aeaffb">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.android.service-1.1.0_4418290c1d461b4e080b514070f5f0c94d64d0ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/aa7801eb28d33e38f60b5350d9a1b9d65de7d962/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bb4bd7e07ba64faa028e65710c85a4ead0de759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/6a161c44af2042d1cd51aa6c4a60903b9abbbbd6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c4ba34699781ae7929a9453f3862d5d9cecb36e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/59e1482ce094df3f953cb0bc15fff3960ec64d5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a5343db7c8bae1e972dea72e0bf2333b20b8d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/dee1b58d8b1bdeea5b7d6106b9295192e24fba81/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d123acec656f80afb01cd11cf629c846108cea05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.1.0/89d827ffa47c241f2627421ef1d6c7a8c207a341/org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.client.mqttv3-1.1.0_6f877c3e7ef71c1feda740b14b83d6c262f0a501/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/d86477e7401004f4de3b92147f5c7657e0cafac4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa680ea763705db0009d73d614b18a3a18f568ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/f82dbeafe023d69f00198361b340fadaacb36b04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee316dd62b34b9d0f9e62db47e73dcdb9b6636fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/8445380d72cb8e309c3fd34bd71a2aabf2c1dd32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be4eb8d1ae1ac2404ba469239fcb235ce86deea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/d31168a2e6b1a3f110dfe371d46d5301f0d55ba2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fb707b1da542716263596e0f7dddc22626f6614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/dee1b58d8b1bdeea5b7d6106b9295192e24fba81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e02cd3022693a67b5b8bb7ae8f6882ec3e339076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/58741a24972061493e42e49d3dedc90e40d6ab58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b91f0c705af757318e6f7af4dbf06400519dfd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/8ff2b6803910484d8bc631397280ae8b84299f73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6db3d47262e3bdbd23ea2649b8b5ac4db2d90dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/d31168a2e6b1a3f110dfe371d46d5301f0d55ba2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8d9aeb0febe96e029d6b4662f3452d2af48b1431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_2eac8dcf884b3ea61ddd41bec968699376a4776d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JeanDGV/.android/build-cache/02255997ae015a876b712de560713d5b0a29fd98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b64812bf44dd2ca04009de73e7ea7bd3a0fa83d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba068423ceb4b87f574cf95542443b6dbc2aa295">
+        <dex dex="/Volumes/SD NOTE/Estagio/app/felipeeths-esta-o-climatica-06a2bf437fd7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_845bc6b1d9dfb16c75ceeebf1e4e31e737c9b372/classes.dex" />
+    </item>
+
+</items>
